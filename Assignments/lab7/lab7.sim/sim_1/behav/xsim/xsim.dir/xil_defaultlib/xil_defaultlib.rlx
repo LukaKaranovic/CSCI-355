@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 21 2025
+22:59:56
+/home/student/karanovl/csci355/vivado/lab7/lab7.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sim_1/new/complexMealy_tb.v,1764121295,verilog,,,,complexMealy_tb,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sim_1/new/complexMoore_tb.v,1764119975,verilog,,,,complexMoore_tb,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sim_1/new/simpleMealy_tb.v,1764120789,verilog,,,,simpleMealy_tb,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sim_1/new/simpleMoore_tb.v,1764119504,verilog,,,,simpleMoore_tb,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sources_1/new/complexMealy.v,1764120955,verilog,,/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sim_1/new/complexMealy_tb.v,,complexMealy,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sources_1/new/complexMoore.v,1764120013,verilog,,/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sim_1/new/complexMoore_tb.v,,complexMoore,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sources_1/new/simpleMealy.v,1764120305,verilog,,/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sim_1/new/simpleMealy_tb.v,,simpleMealy,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sources_1/new/simpleMoore.v,1764016731,verilog,,/home/student/karanovl/csci355/vivado/lab7/lab7.srcs/sim_1/new/simpleMoore_tb.v,,simpleMoore,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,

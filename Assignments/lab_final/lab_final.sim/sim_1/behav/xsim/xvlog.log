@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sources_1/new/serialAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftReg
+INFO: [VRFC 10-311] analyzing module serialAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sim_1/new/serialAdder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module serialAdder_tb

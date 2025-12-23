@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 21 2025
+22:59:56
+/home/student/karanovl/csci355/vivado/Lab5/Lab5.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+/home/student/karanovl/csci355/vivado/Lab5/Lab5.srcs/sources_1/new/comparator.v,1762042160,verilog,,/home/student/karanovl/csci355/vivado/Lab5/Lab5.srcs/sources_1/new/fourBitComparator.v,,comparator,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/Lab5/Lab5.srcs/sources_1/new/comparator_tb.v,1762037406,verilog,,,,comparator_tb,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/Lab5/Lab5.srcs/sources_1/new/fourBitComparator.v,1762041910,verilog,,/home/student/karanovl/csci355/vivado/Lab5/Lab5.srcs/sources_1/new/fourBitComparator_tb.v,,fourBitComparator,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/Lab5/Lab5.srcs/sources_1/new/fourBitComparator_tb.v,1762038005,verilog,,,,fourBitComparator_tb,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,

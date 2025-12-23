@@ -1,0 +1,7 @@
+Running: xsim.dir/GatedDLatch_tb_behav/xsimk -simmode gui -wdb GatedDLatch_tb_behav.wdb -simrunnum 0 -socket 42903
+Design successfully loaded
+Design Loading Memory Usage: 176136 KB (Peak: 176192 KB)
+Design Loading CPU Usage: 890 ms
+Simulation completed
+Simulation Memory Usage: 257872 KB (Peak: 315404 KB)
+Simulation CPU Usage: 890 ms

@@ -1,0 +1,7 @@
+Running: xsim.dir/complexMealy_tb_behav/xsimk -simmode gui -wdb complexMealy_tb_behav.wdb -simrunnum 0 -socket 59235
+Design successfully loaded
+Design Loading Memory Usage: 176140 KB (Peak: 176196 KB)
+Design Loading CPU Usage: 900 ms
+Simulation completed
+Simulation Memory Usage: 258136 KB (Peak: 315408 KB)
+Simulation CPU Usage: 920 ms

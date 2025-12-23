@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 21 2025
+22:59:56
+/home/student/karanovl/csci355/vivado/lab_final/lab_final.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sim_1/new/Mealy_tb.v,1764888817,verilog,,,,Mealy_tb,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sim_1/new/MooreModulo_tb.v,1764886519,verilog,,,,MooreModulo_tb,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sim_1/new/PriorityEncoder_tb.v,1764878318,verilog,,,,PriorityEncoder_tb,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sim_1/new/serialAdder_tb.v,1764918048,verilog,,,,serialAdder_tb,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sources_1/new/Mealy.v,1764888588,verilog,,/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sim_1/new/Mealy_tb.v,,Mealy,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sources_1/new/MooreModulo.v,1764886591,verilog,,/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sim_1/new/MooreModulo_tb.v,,MooreModulo,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sources_1/new/PriorityEncoder.v,1764885711,verilog,,/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sim_1/new/PriorityEncoder_tb.v,,PriorityEncoder,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
+/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sources_1/new/serialAdder.v,1764917635,verilog,,/home/student/karanovl/csci355/vivado/lab_final/lab_final.srcs/sim_1/new/serialAdder_tb.v,,serialAdder;shiftReg,,,../../../../../../../../../../opt/Xilinx-2025-1/2025.1/data/rsb/busdef,,,,,
